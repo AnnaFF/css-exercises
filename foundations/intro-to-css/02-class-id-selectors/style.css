@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.pink-background{
+    background-color: rgb(254, 177, 163);
+    font-family: 'Verdana', 'DejaVuSans', 'sans-serif';
+}
+
+#number2 {
+    color: rgb(34, 34, 255);
+    font-size: 36px;
+}
+
+.extra-font{
+    font-size: 24px;
+}
+
+#number4{
+    background-color: rgb(188, 255, 121);
+    font-weight: bold;
+}
+
+
+
+
